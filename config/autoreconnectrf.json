@@ -1,0 +1,27 @@
+{
+  "options": {
+    "delays": [
+      3,
+      10,
+      120,
+      300
+    ],
+    "infinite": false,
+    "conditionType": false,
+    "conditionKeys": [
+      "multiplayer.disconnect.banned"
+    ],
+    "conditionPatterns": [],
+    "autoMessages": [
+      {
+        "id": "202.181.188.46:25855",
+        "delay": 5.0,
+        "messages": [
+          "/trigger login set 6518"
+        ]
+      }
+    ],
+    "commandSigning": false,
+    "regexIds": false
+  }
+}
