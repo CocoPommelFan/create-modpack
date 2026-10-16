@@ -128,7 +128,15 @@
     "net.thetct.tctcore.client.gui.TCTcoreScreen": true,
     "Hackartem.chestpreview.client.ChestPreviewConfigScreen": true,
     "net.mehvahdjukaar.moonlight.core.client.config.ModsTilesScreen": true,
-    "me.shedaniel.rei.impl.client.gui.config.REIConfigScreen": true
+    "me.shedaniel.rei.impl.client.gui.config.REIConfigScreen": true,
+    "red.jackf.chesttracker.impl.gui.screen.ChestTrackerScreen": true,
+    "red.jackf.chesttracker.impl.gui.screen.EditMemoryBankScreen": true,
+    "red.jackf.chesttracker.impl.gui.screen.MemoryBankManagerScreen": true,
+    "me.shedaniel.rei.impl.client.gui.config.options.configure.PanelBoundariesConfiguration$BoundariesScreen": true,
+    "net.minecraft.client.gui.screens.options.ChatOptionsScreen": true,
+    "dev.shwg.smoothswapping.config.ConfigScreen": true,
+    "com.ezzenix.smoothgui.config.SmoothConfigScreen": true,
+    "com.terraformersmc.mod_menu.gui.ModsScreen": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
@@ -174,6 +182,7 @@
     "com.simibubi.create.content.logistics.stockTicker.StockKeeperRequestScreen": true,
     "com.simibubi.create.content.logistics.filter.AttributeFilterScreen": true,
     "com.simibubi.create.content.equipment.clipboard.ClipboardScreen": true,
-    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true
+    "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
+    "red.jackf.chesttracker.impl.gui.screen.ChestTrackerScreen": true
   }
 }

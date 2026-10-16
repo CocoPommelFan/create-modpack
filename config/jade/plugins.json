@@ -84,6 +84,9 @@
     "wild_bush_tooltips": true,
     "hamster_genetics": true
   },
+  "chesttracker": {
+    "memory_preview": true
+  },
   "ipla": {
     "ipla_jade": true
   },

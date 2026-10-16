@@ -71,7 +71,7 @@
 		"scrollingEntryListWidget": false,
 		// Declares whether entry panel should be invisible when not searching
 		"hideEntryPanelIfIdle": false,
-		"rainbow": false,
+		"rainbow": true,
 		"horizontalEntriesBoundaries": 1.0,
 		"verticalEntriesBoundaries": 1.0,
 		"horizontalEntriesBoundariesColumns": 50,
@@ -118,7 +118,7 @@
 			"favoriteAddWidgetMode": "ALWAYS_VISIBLE"
 		},
 		"accessibility": {
-			"entrySize": 1.125,
+			"entrySize": 1.0000000000000002,
 			// Declares the position of the entry panel.
 			"displayPanelLocation": "RIGHT",
 			// Declares how the scrollbar in composite screen should act.
