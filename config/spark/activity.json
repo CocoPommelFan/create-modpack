@@ -1,0 +1,106 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "fallen6",
+      "uniqueId": "d929f1e7-0aa0-4399-acb0-6c4659db4795"
+    },
+    "time": 1787525175014,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/HuPd8scqgU"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "fallen6",
+      "uniqueId": "d929f1e7-0aa0-4399-acb0-6c4659db4795"
+    },
+    "time": 1787524594575,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\colmi\\AppData\\Roaming\\PrismLauncher\\instances\\All of Create 1.21.1\\minecraft\\config\\spark\\profile-2026-08-24_01.36.34.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "fallen6",
+      "uniqueId": "d929f1e7-0aa0-4399-acb0-6c4659db4795"
+    },
+    "time": 1787524045592,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\colmi\\AppData\\Roaming\\PrismLauncher\\instances\\All of Create 1.21.1\\minecraft\\config\\spark\\profile-2026-08-24_01.27.25.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "fallen6",
+      "uniqueId": "d929f1e7-0aa0-4399-acb0-6c4659db4795"
+    },
+    "time": 1787523148501,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\colmi\\AppData\\Roaming\\PrismLauncher\\instances\\All of Create 1.21.1\\minecraft\\config\\spark\\profile-2026-08-24_01.12.28.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "fallen6",
+      "uniqueId": "d929f1e7-0aa0-4399-acb0-6c4659db4795"
+    },
+    "time": 1787521576639,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\colmi\\AppData\\Roaming\\PrismLauncher\\instances\\All of Create 1.21.1\\minecraft\\config\\spark\\profile-2026-08-24_00.46.16.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "fallen6",
+      "uniqueId": "d929f1e7-0aa0-4399-acb0-6c4659db4795"
+    },
+    "time": 1787521378817,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\colmi\\AppData\\Roaming\\PrismLauncher\\instances\\All of Create 1.21.1\\minecraft\\config\\spark\\profile-2026-08-24_00.42.58.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "fallen6",
+      "uniqueId": "d929f1e7-0aa0-4399-acb0-6c4659db4795"
+    },
+    "time": 1787520819558,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\colmi\\AppData\\Roaming\\PrismLauncher\\instances\\All of Create 1.21.1\\minecraft\\config\\spark\\profile-2026-08-24_00.33.39.sparkprofile"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "fallen6",
+      "uniqueId": "d929f1e7-0aa0-4399-acb0-6c4659db4795"
+    },
+    "time": 1786540653325,
+    "type": "Profiler",
+    "data": {
+      "type": "file",
+      "value": "C:\\Users\\colmi\\AppData\\Roaming\\PrismLauncher\\instances\\All of Create 1.21.1\\minecraft\\config\\spark\\profile-2026-08-12_16.17.32.sparkprofile"
+    }
+  }
+]

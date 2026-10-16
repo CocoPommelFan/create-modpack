@@ -1,0 +1,168 @@
+#Settings for the Tilting Propeller Bearing
+[tiltingPropellerBearing]
+	#Lowest maximum tilt angle (degrees) accepted by the Tilting Propeller Bearing screen.
+	# Default: 0.0
+	# Range: 0.0 ~ 90.0
+	minTiltAngle = 0.0
+	#Highest maximum tilt angle (degrees) accepted by the Tilting Propeller Bearing screen.
+	#A full strength (15) redstone link signal tilts by the block's configured angle.
+	# Default: 15.0
+	# Range: 0.0 ~ 90.0
+	maxTiltAngle = 15.0
+	#Lowest tilt speed (degrees per tick) accepted by the Tilting Propeller Bearing screen.
+	# Default: 0.1
+	# Range: 0.1 ~ 90.0
+	minTiltSpeed = 0.1
+	#Highest tilt speed (degrees per tick) accepted by the Tilting Propeller Bearing screen.
+	# Default: 15.0
+	# Range: 0.1 ~ 90.0
+	maxTiltSpeed = 15.0
+	#Stress impact of the Tilting Bearing, applied per attached sail block
+	# Default: 2.5
+	# Range: 0.0 ~ 4096.0
+	stressImpact = 2.5
+
+#Settings for the Tilting Swivel Bearing
+[tiltingSwivelBearing]
+	#Lowest maximum tilt angle (degrees) accepted by the Tilting Swivel Bearing screen.
+	# Default: 0.0
+	# Range: 0.0 ~ 90.0
+	minTiltAngle = 0.0
+	#Highest maximum tilt angle (degrees) accepted by the Tilting Swivel Bearing screen.
+	#A full strength (15) redstone link signal tilts by the block's configured angle.
+	# Default: 30.0
+	# Range: 0.0 ~ 90.0
+	maxTiltAngle = 30.0
+	#Lowest tilt speed (degrees per tick) accepted by the Tilting Swivel Bearing screen.
+	# Default: 0.1
+	# Range: 0.1 ~ 90.0
+	minTiltSpeed = 0.1
+	#Highest tilt speed (degrees per tick) accepted by the Tilting Swivel Bearing screen.
+	# Default: 15.0
+	# Range: 0.1 ~ 90.0
+	maxTiltSpeed = 15.0
+	#Stress impact of the Tilting Swivel Bearing.
+	# Default: 4.0
+	# Range: 0.0 ~ 4096.0
+	stressImpact = 4.0
+
+#Settings for the Gimbal Propeller Bearing
+[gimbalPropellerBearing]
+	#Lowest maximum tilt angle (degrees) accepted by the Gimbal Propeller Bearing screen.
+	# Default: 0.0
+	# Range: 0.0 ~ 90.0
+	minTiltAngle = 0.0
+	#Highest maximum tilt angle (degrees) accepted by the Gimbal Propeller Bearing screen.
+	#A full strength (15) redstone link signal tilts by the block's configured angle.
+	# Default: 15.0
+	# Range: 0.0 ~ 90.0
+	maxTiltAngle = 15.0
+	#Lowest tilt speed (degrees per tick) accepted by the Gimbal Propeller Bearing screen.
+	# Default: 0.1
+	# Range: 0.1 ~ 90.0
+	minTiltSpeed = 0.1
+	#Highest tilt speed (degrees per tick) accepted by the Gimbal Propeller Bearing screen.
+	# Default: 15.0
+	# Range: 0.1 ~ 90.0
+	maxTiltSpeed = 15.0
+	#Stress impact of the Gimbal Bearing, applied per attached sail block
+	# Default: 2.5
+	# Range: 0.0 ~ 4096.0
+	stressImpact = 2.5
+	#Additional stress impact per unit of configured gyroscope strength.
+	#Total impact = stressImpact * sails + gyroRpmMult * gyroStrength.
+	# Default: 2.0
+	# Range: 0.0 ~ 4096.0
+	gyroRpmMult = 2.0
+	#Highest gyroscope strength selectable in the Gimbal Bearing screen.
+	# Default: 32.0
+	# Range: 0.0 ~ 256.0
+	maxGyroStrength = 32.0
+	#RPM at which the full gyroscope strength unlocks.
+	#Below it, the selectable strength is capped by
+	#maxGyroStrength * log(1 + rpm) / log(1 + gyroCapReferenceRpm).
+	# Default: 64.0
+	# Range: 1.0 ~ 256.0
+	gyroCapReferenceRpm = 64.0
+	#Restoring torque coefficient of the gyroscope at full authority,
+	#normalized by the contraption's rotational inertia.
+	# Default: 14.0
+	# Range: 0.0 ~ 1024.0
+	gyroStiffness = 14.0
+	#Rotation damping coefficient of the gyroscope at full authority,
+	#normalized by the contraption's rotational inertia.
+	# Default: 14.0
+	# Range: 0.0 ~ 1024.0
+	gyroDamping = 14.0
+	#Gyro strength that yields 50% stabilization authority on a contraption
+	#of gyroReferenceMass. Authority follows the saturating curve
+	#strength / (strength + S), where S = gyroHalfStrength *
+	#(mass / gyroReferenceMass) ^ gyroMassExponent.
+	# Default: 0.5
+	# Range: 0.001 ~ 256.0
+	gyroHalfStrength = 0.5
+	#Contraption mass at which gyroHalfStrength applies as-is.
+	# Default: 20.0
+	# Range: 0.001 ~ 1.0E9
+	gyroReferenceMass = 20.0
+	#How fast the required strength grows with contraption mass..
+	#Below 1.0 the growth is sublinear: heavier contraptions need more strength
+	#with diminishing returns, but a max-strength gyro always keeps
+	#meaningful authority
+	# Default: 0.45
+	# Range: 0.0 ~ 2.0
+	gyroMassExponent = 0.45
+	#Enables/Disables Gyroscope compensation on the Yaw.
+	#If the contraption's center of mass is not directly under it
+	#tilting sideways also yaws the craft. This cancels only that
+	#Set 1 to enable
+	# Default: 0.0
+	# Range: 0.0 ~ 1.0
+	thrustYawCompensation = 0.0
+	#Damping applied to the contraption's yaw (heading) rate, per second,
+	#scaled by the gyro's authority. It should only
+	#bleed off unwanted spin. Set to 0 to leave yaw untouched.
+	# Default: 0.6
+	# Range: 0.0 ~ 64.0
+	gyroYawDamping = 0.6
+
+#Settings for the Linked Joystick
+[linkedJoystick]
+	#Maximum distance (blocks) a player may move from a Linked Joystick before
+	#the link is automatically disconnected.
+	# Default: 12.0
+	# Range: 2.0 ~ 64.0
+	linkRange = 12.0
+
+#Settings for the Advanced Transmission
+[advancedTransmission]
+	#Ticks the output shaft must stay free of external rotation before the
+	#transmission leaves the back drive fault.
+	# Default: 15
+	# Range: 1 ~ 1200
+	backDriveRecoveryTicks = 15
+	#Highest acceleration in RPM per tick selectable in the screen.
+	# Default: 256
+	# Range: 1 ~ 4096
+	maxAccelerationRpm = 256
+	#Highest acceleration time in ticks selectable in the screen.
+	# Default: 200
+	# Range: 1 ~ 12000
+	maxAccelerationTicks = 200
+	#Highest organic deceleration in RPM per tick selectable in the screen.
+	# Default: 256
+	# Range: 1 ~ 4096
+	maxOrganicDeceleration = 256
+	#Highest gear change time in ticks selectable in the screen.
+	# Default: 200
+	# Range: 0 ~ 12000
+	maxGearChangeTicks = 200
+	#Smallest RPM step that is pushed to the network.
+	#Lower values give smoother rotation but cost more performance.
+	# Default: 1.0
+	# Range: 0.01 ~ 256.0
+	rpmQuantum = 1.0
+	#Ticks between two output updates while the ramp is below the RPM step.
+	# Default: 2
+	# Range: 1 ~ 200
+	minTicksBetweenUpdates = 2

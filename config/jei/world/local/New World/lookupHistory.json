@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"create:mechanical_saw"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"naturalist:drumstick"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

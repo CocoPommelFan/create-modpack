@@ -1,0 +1,23 @@
+{
+  "key.jei.bookmark": {
+    "keyCode": 65,
+    "keyType": "KEYBOARD",
+    "alt": false,
+    "shift": false,
+    "ctrl": true
+  },
+  "key.effortlessbuilding.undo.desc": {
+    "keyCode": 90,
+    "keyType": "KEYBOARD",
+    "alt": false,
+    "shift": false,
+    "ctrl": true
+  },
+  "key.backpacked.open_backpack": {
+    "keyCode": 66,
+    "keyType": "KEYBOARD",
+    "alt": false,
+    "shift": false,
+    "ctrl": true
+  }
+}

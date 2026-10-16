@@ -1,0 +1,9 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"naturalist:glow_goop"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"naturalist:cooked_mammoth_meat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"naturalist:mammoth_meat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"naturalist:duck_bucket"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"naturalist:bass_bucket","components":"{\"minecraft:bucket_entity_data\":{Variant:\"naturalist:bass_large\"},\"minecraft:custom_data\":{Variant:\"naturalist:bass_large\"}}"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:auger_cog"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

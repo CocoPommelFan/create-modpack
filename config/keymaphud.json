@@ -1,0 +1,14 @@
+{
+  "_comment": "KeyMap HUD configuration. Custom key labels may contain up to 6 characters.",
+  "keyboardLayout": "ANSI_US",
+  "hudScale": 1.0,
+  "hudPosition": "CENTER",
+  "mousePosition": "RIGHT",
+  "lastSearch": "",
+  "activeProfileName": "",
+  "labels": {},
+  "safeConflicts": [
+    "82|Essential\u0000keybind.name.EMOTE_WHEEL|JEI (Hovering With Mouse)\u0000key.jei.showRecipe|Power Grid - Circuit Editor\u0000powergrid.keyinfo.rotate_component",
+    "79|JEI (Overlays)\u0000key.jei.toggleOverlay|iris.keybinds\u0000iris.keybind.shaderPackSelection"
+  ]
+}
