@@ -1,6 +1,6 @@
 {
   "configVersion": 4,
-  "enabled": false,
+  "enabled": true,
   "hoverDelayTicks": 4,
   "normalChests": true,
   "trappedChests": false,

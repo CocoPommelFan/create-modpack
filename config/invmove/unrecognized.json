@@ -136,7 +136,9 @@
     "net.minecraft.client.gui.screens.options.ChatOptionsScreen": true,
     "dev.shwg.smoothswapping.config.ConfigScreen": true,
     "com.ezzenix.smoothgui.config.SmoothConfigScreen": true,
-    "com.terraformersmc.mod_menu.gui.ModsScreen": true
+    "com.terraformersmc.mod_menu.gui.ModsScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.PresentScreen": true,
+    "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,

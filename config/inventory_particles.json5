@@ -19,7 +19,7 @@
   },
   "family_generation": {
     "mods_mode": "blacklist",
-    "mods": "create offroad",
+    "mods": "create",
     "items_mode": "blacklist",
     "items": ""
   },

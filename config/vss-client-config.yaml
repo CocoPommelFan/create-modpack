@@ -41,8 +41,8 @@ scan:
 cache:
   split_by_world: true # [reconnect] Separate cache identity when one address changes worlds.
   address_aliases: [] # [reconnect] Ordered address groups; first address is canonical.
-  # Example: [["play.example.com", "alt.example.com"]]. Requires consumer corroboration.
-  # Aliases stay inactive while map ingestion writes into a per-server map store.
+# Example: [["play.example.com", "alt.example.com"]]. Requires consumer corroboration.
+# Aliases stay inactive while map ingestion writes into a per-server map store.
 
 # Protocol fallbacks allow older LOD servers. Block fallbacks provide a local visual
 # substitute when this client does not know a received block; they do not install
@@ -80,7 +80,7 @@ far_players:
     max_blocks: 0 # 0 = server maximum; otherwise up to 16384 blocks.
   name_tags: true # Show this mod's far-player name tags.
   full_bright: false # Draw distant players at full brightness, including at night.
-  render_distance_blocks: 0 # 0 = effective server/client ring; caps models and name tags.
+  render_distance_blocks: 11008 # 0 = effective server/client ring; caps models and name tags.
   animation_distance_blocks: 512 # Animate nearby proxies; 0 = no walk animation.
   # Controls whether others may see your position through the far-player feature.
   # This does not hide you from normal Minecraft tracking or unrelated systems.
