@@ -21,6 +21,36 @@
                   },
                   {
                       "downloads":  [
+                                        "https://cdn.modrinth.com/data/BaR4ijFC/versions/xaWwatoU/AdvancedCoreInfo-neoforge-1.21.1-1.5.0.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "required"
+                              },
+                      "fileSize":  270853,
+                      "hashes":  {
+                                     "sha1":  "81974fbd6bb03193be8310b31b6879d0fe4169e4",
+                                     "sha512":  "cbf59540e3317b424cadf96497091a8c69c799ff6727e3c67719e46156bf5f5e4d4253670e5035c8b40b259cf6d05c0413279b859c0ad933448f7d8b36ade4fe"
+                                 },
+                      "path":  "mods/AdvancedCoreInfo-neoforge-1.21.1-1.5.0.jar"
+                  },
+                  {
+                      "downloads":  [
+                                        "https://cdn.modrinth.com/data/PEPVViac/versions/adxS0PUF/AdvancedLootInfo-neoforge-1.21.1-2.5.0.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "required"
+                              },
+                      "fileSize":  730220,
+                      "hashes":  {
+                                     "sha1":  "d640286f05ff6417af467ba25e92f7f879cd888d",
+                                     "sha512":  "0596ee6abfbc56fc49a4a32d1f4695cdbe852c61b6dff6e07ee3d6fb254b189abe535fad5939339c799a4e24e088573dfee0541abc915cb30392c4f88029d8a1"
+                                 },
+                      "path":  "mods/AdvancedLootInfo-neoforge-1.21.1-2.5.0.jar"
+                  },
+                  {
+                      "downloads":  [
                                         "https://cdn.modrinth.com/data/ZGxtWu73/versions/UbgVQ0qd/aero_cam_sync-1.4.0.jar"
                                     ],
                       "env":  {
@@ -1131,6 +1161,21 @@
                   },
                   {
                       "downloads":  [
+                                        "https://cdn.modrinth.com/data/1fkSpqmV/versions/H8zVoq1O/createjeicompat-1.0.3.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "unsupported"
+                              },
+                      "fileSize":  34183,
+                      "hashes":  {
+                                     "sha1":  "3435d67651913cf2105a4994d9a6af2873df37ac",
+                                     "sha512":  "04bac5a6f0c97776b400a0d636ff2e514706d0fdbffac48d1670588430298b138419951d3e359eed1d49a5c92b51e2b03875595ae1891e8f706fc4f60da7480b"
+                                 },
+                      "path":  "mods/createjeicompat-1.0.3.jar"
+                  },
+                  {
+                      "downloads":  [
                                         "https://cdn.modrinth.com/data/sH9tXU9f/versions/rLn2bDVE/createliquidfuel-3.0.0-1.21.1.jar"
                                     ],
                       "env":  {
@@ -1821,6 +1866,81 @@
                   },
                   {
                       "downloads":  [
+                                        "https://cdn.modrinth.com/data/EO27GKs1/versions/3dTukOBl/jeed-1.21-2.3.5-neoforge.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "unsupported"
+                              },
+                      "fileSize":  166779,
+                      "hashes":  {
+                                     "sha1":  "4eadb48f3f19f0a42226b9617cdbb27e84543fcc",
+                                     "sha512":  "4146d83f9801142d9abb36aa41d0a9137c93448f01ab2d3486f4dfad7ff4e83581d929fa155de96f69d5615216e6f7d92ad8ad0662deb9835fbbf841f8e9cf0b"
+                                 },
+                      "path":  "mods/jeed-1.21-2.3.5-neoforge.jar"
+                  },
+                  {
+                      "downloads":  [
+                                        "https://cdn.modrinth.com/data/6n995rcN/versions/G97OiDKl/jei_enhancements-1.1.0.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "unsupported"
+                              },
+                      "fileSize":  89994,
+                      "hashes":  {
+                                     "sha1":  "5512d23d928c1c222df0b6b093c5d9965a34e00e",
+                                     "sha512":  "ed7428af285e37ae65d9907d3615bd42642b4133d9e49eff9314350d08cd4fce3a17bf795da97ba437278f68ca7f11dc474c12d413439064bc6966e7394a887b"
+                                 },
+                      "path":  "mods/jei_enhancements-1.1.0.jar"
+                  },
+                  {
+                      "downloads":  [
+                                        "https://cdn.modrinth.com/data/hh0hqGM2/versions/2CbxvXc0/jei_integration_reborn-1.0.2.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "unsupported"
+                              },
+                      "fileSize":  23669,
+                      "hashes":  {
+                                     "sha1":  "56b0d1304938e243a7a979983c58c3004b955c95",
+                                     "sha512":  "13c79c37fd2e1f690404a3d1cc86cbd43969ebffac7ac3afe5df0d9e9cb12d01d1b9e6174bb9f74d0354f6d92d46ddb387bc6bed4f27571f8971ebc514ab2d7b"
+                                 },
+                      "path":  "mods/jei_integration_reborn-1.0.2.jar"
+                  },
+                  {
+                      "downloads":  [
+                                        "https://cdn.modrinth.com/data/u6dRKJwZ/versions/FLLyiWf8/jei-1.21.1-neoforge-19.69.0.456.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "required"
+                              },
+                      "fileSize":  7350892,
+                      "hashes":  {
+                                     "sha1":  "a5d3f2fcd38d27fcfd0b68034693ad043c00e5a2",
+                                     "sha512":  "c501a41381ca0cdfcd2629f2750a400f27dcc6d7d829636d03c7a608eb2ae2a396ad4697176349417eb3995d3d900da1041e9598e224ceaf0f34fb05493b4cdb"
+                                 },
+                      "path":  "mods/jei-1.21.1-neoforge-19.69.0.456.jar"
+                  },
+                  {
+                      "downloads":  [
+                                        "https://cdn.modrinth.com/data/GRvMb5oF/versions/LUw5btcz/jeioptimizer-1.21.1-1.2.1-19.64.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "unsupported"
+                              },
+                      "fileSize":  26610,
+                      "hashes":  {
+                                     "sha1":  "b508d115e66a49a4b17a500679ad74435252bb0c",
+                                     "sha512":  "4ad1f39397274aec68faf9bd6f4491e92d893c0445c109c9c83148e60b512da7cbb867147c31c342fa93f9a4ea26e9688a237f94b5b5a74497cfdebe0ef9393d"
+                                 },
+                      "path":  "mods/jeioptimizer-1.21.1-1.2.1-19.64.jar"
+                  },
+                  {
+                      "downloads":  [
                                         "https://cdn.modrinth.com/data/NcD25WXU/versions/sTknDQoJ/just_blahaj-3.1.1-neoforge-1.21.1.jar"
                                     ],
                       "env":  {
@@ -1833,6 +1953,51 @@
                                      "sha512":  "84737dd3b68db318d2ea20f8c86f5b532ca83780a3f59e007320fa3fe8048eb9faad5f346d97aa72d26545ff49ffaaacb051085ef6bafc4b031dd515a206f5a9"
                                  },
                       "path":  "mods/just_blahaj-3.1.1-neoforge-1.21.1.jar"
+                  },
+                  {
+                      "downloads":  [
+                                        "https://cdn.modrinth.com/data/9Pk89J3g/versions/tnIqG3cu/justenoughbreeding-neoforge-1.21.1-3.3.1.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "unsupported"
+                              },
+                      "fileSize":  626813,
+                      "hashes":  {
+                                     "sha1":  "f75b1bc60dcdc6045b01e1f37746320a8c8ade67",
+                                     "sha512":  "712f023a983e37fab2f0affa677a38c5f7c1c8e2fa75757a73592cbccc1e2240ff0853102487cb3765e3097be1544394113aba22c0ffaad1b92c2963ea126bbd"
+                                 },
+                      "path":  "mods/justenoughbreeding-neoforge-1.21.1-3.3.1.jar"
+                  },
+                  {
+                      "downloads":  [
+                                        "https://cdn.modrinth.com/data/kB56GtWA/versions/Avs9oGLn/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "required"
+                              },
+                      "fileSize":  24879,
+                      "hashes":  {
+                                     "sha1":  "b97a7420738c2ac020ad15e8f6ac472aad288af2",
+                                     "sha512":  "2d9ecd7dbe8a676447009a6943b99f54bb732d084d220c09b79636293e67596f8e0ac1d1a849ad1077126b5e9da4aff31c5bfd81836459190c63b974500c8363"
+                                 },
+                      "path":  "mods/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar"
+                  },
+                  {
+                      "downloads":  [
+                                        "https://cdn.modrinth.com/data/uEfK2CXF/versions/TgNFki8j/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "unsupported"
+                              },
+                      "fileSize":  292088,
+                      "hashes":  {
+                                     "sha1":  "e739d69b2de31ca8c0cb4691ab08e823f153bc44",
+                                     "sha512":  "9a4f8c32e65d5f9451edcf1a584b22b9f590dab2cfb3efb68ef2b4c042d8ff39dcfdaddba0a9d615c7af4ecfa1cefda417c8972d7dcb54e574837ec81d6939b0"
+                                 },
+                      "path":  "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
                   },
                   {
                       "downloads":  [
@@ -1983,6 +2148,21 @@
                                      "sha512":  "de29d1b6b384bef623327ac1a7380f398dd85834fc4f7669f070820f80c6880c9c94cadf740ae969376da7ab10f9312d897c0283db1ca746a4a10595da3f3029"
                                  },
                       "path":  "mods/lod-server-support-neoforge-0.19.0+1.21.1.jar"
+                  },
+                  {
+                      "downloads":  [
+                                        "https://cdn.modrinth.com/data/7tEfOcA7/versions/idpM3DKC/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "required"
+                              },
+                      "fileSize":  327173,
+                      "hashes":  {
+                                     "sha1":  "d99ed592d8ab7105c00444047be7d8346d694ba3",
+                                     "sha512":  "ed5ff5acf441ae2a9d2ba7ccc59e9394f4cf1e0f14802dd2ea01e9cd60c3cd412039d12f68297b3726eef63a8a85e6f4340bd969dbd1ab7e1ddc7aef88992e6b"
+                                 },
+                      "path":  "mods/mezz_config-1.21.1-neoforge-0.6.8-standalone.jar"
                   },
                   {
                       "downloads":  [
@@ -2361,21 +2541,6 @@
                   },
                   {
                       "downloads":  [
-                                        "https://cdn.modrinth.com/data/7wEDGkiK/versions/WSBoV5qS/rejei-0.1.0.jar"
-                                    ],
-                      "env":  {
-                                  "client":  "required",
-                                  "server":  "required"
-                              },
-                      "fileSize":  615625,
-                      "hashes":  {
-                                     "sha1":  "81700a9d3ec28bd3a04f3051f0e1c2f5a64d3040",
-                                     "sha512":  "46743abe60e7b7cfe48632fca06a6add7fbf493436ce0061d5e1ee809066980cc217364b79304b6e482462679e6689d4d8498c1351e505d74fe971980353a19c"
-                                 },
-                      "path":  "mods/rejei-0.1.0.jar"
-                  },
-                  {
-                      "downloads":  [
                                         "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar"
                                     ],
                       "env":  {
@@ -2433,21 +2598,6 @@
                                      "sha512":  "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330"
                                  },
                       "path":  "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
-                  },
-                  {
-                      "downloads":  [
-                                        "https://cdn.modrinth.com/data/nfn13YXA/versions/b8gfS9Je/RoughlyEnoughItems-16.0.799-neoforge.jar"
-                                    ],
-                      "env":  {
-                                  "client":  "required",
-                                  "server":  "required"
-                              },
-                      "fileSize":  2384445,
-                      "hashes":  {
-                                     "sha1":  "58e3de0cd7d559a6caf924c25992382677bc03f9",
-                                     "sha512":  "9b7fb8071813c348d07283b8651aa589ec334dc060d076422b988eae9e0f6e9598c721cbe39462daf68b93e0f88c2f70e5a655ff24bc644abfe5eb2b1099812c"
-                                 },
-                      "path":  "mods/RoughlyEnoughItems-16.0.799-neoforge.jar"
                   },
                   {
                       "downloads":  [
