@@ -138,7 +138,8 @@
     "com.ezzenix.smoothgui.config.SmoothConfigScreen": true,
     "com.terraformersmc.mod_menu.gui.ModsScreen": true,
     "net.mehvahdjukaar.supplementaries.client.screens.PresentScreen": true,
-    "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": true
+    "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": true,
+    "dev.chililisoup.bigsignwriter.gui.config.BigSignWriterConfigScreen": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
