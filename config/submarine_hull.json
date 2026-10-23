@@ -51941,6 +51941,318 @@
     "maxWaterDepth": 68,
     "implosionChance": 0.330409
   },
+  "plushie_buddies:plushie_allay": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_armadillo": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_axolotl": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_bat": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_bee": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_blaze": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_breeze": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_camel": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_cat": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_cave_spider": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_chewie": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_chicken": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_cow": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_creeper": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_dan_rolo": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_dark_father": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_dolphin": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_donkey": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_drowned": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_elder_guardian": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_emperor": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_enderdragon": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_enderman": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_evoker": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_fox": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_frog": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_ghast": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_glow_squid": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_goat": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_guardian": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_hoglin": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_horse": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_husk": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_iron_golem": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_llama": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_magma_cube": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_mooshroom": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_mule": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_panda": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_parrot": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_peter": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_phantom": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_pig": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_piglin": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_piglin_brute": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_pillager": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_polar_bear": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_pufferfish": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_rabbit": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_ravanger": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_sheep": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_shulker": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_skeleton": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_skeleton_horse": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_slime": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_sniffer": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_spider": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_squid": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_storm_soldier": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_stray": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_strider": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_trader_lama": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_turtle": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_vex": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_villager": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_vindicator": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_wandering_trader": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_warden": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_witch": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_wither": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_wither_skeleton": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_wolf": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_yoga": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_zoglin": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_zombie": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_zombie_villager": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:plushie_zombified_piglin": {
+    "maxWaterDepth": 27,
+    "implosionChance": 0.50122136
+  },
+  "plushie_buddies:workbench": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.36137056
+  },
   "powergrid:acid": {
     "maxWaterDepth": 400,
     "implosionChance": 0.05

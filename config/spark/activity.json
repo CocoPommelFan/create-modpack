@@ -5,19 +5,6 @@
       "name": "fallen6",
       "uniqueId": "d929f1e7-0aa0-4399-acb0-6c4659db4795"
     },
-    "time": 1787525175014,
-    "type": "Profiler",
-    "data": {
-      "type": "url",
-      "value": "https://spark.lucko.me/HuPd8scqgU"
-    }
-  },
-  {
-    "user": {
-      "type": "player",
-      "name": "fallen6",
-      "uniqueId": "d929f1e7-0aa0-4399-acb0-6c4659db4795"
-    },
     "time": 1787524594575,
     "type": "Profiler",
     "data": {

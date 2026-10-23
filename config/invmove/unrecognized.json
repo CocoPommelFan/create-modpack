@@ -139,7 +139,8 @@
     "com.terraformersmc.mod_menu.gui.ModsScreen": true,
     "net.mehvahdjukaar.supplementaries.client.screens.PresentScreen": true,
     "net.mehvahdjukaar.supplementaries.client.screens.TrappedPresentScreen": true,
-    "dev.chililisoup.bigsignwriter.gui.config.BigSignWriterConfigScreen": true
+    "dev.chililisoup.bigsignwriter.gui.config.BigSignWriterConfigScreen": true,
+    "com.charybdis.Neon_Lights.NeonSignScreen": true
   },
   "hideBackground": {
     "mezz.jei.gui.recipes.RecipesGui": true,
@@ -186,6 +187,7 @@
     "com.simibubi.create.content.logistics.filter.AttributeFilterScreen": true,
     "com.simibubi.create.content.equipment.clipboard.ClipboardScreen": true,
     "me.shedaniel.rei.impl.client.gui.screen.DefaultDisplayViewingScreen": true,
-    "red.jackf.chesttracker.impl.gui.screen.ChestTrackerScreen": true
+    "red.jackf.chesttracker.impl.gui.screen.ChestTrackerScreen": true,
+    "com.charybdis.Neon_Lights.NeonSignScreen": true
   }
 }

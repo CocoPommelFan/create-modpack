@@ -1,3 +1,7 @@
 [
-  {"version":2}
+  {"version":2},
+  {"ingredient":{"id":"offroad:monstrous_tire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:physics_assembler"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"offroad:wheel_mount"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simulated:directional_gearshift"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]
