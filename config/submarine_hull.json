@@ -38133,12 +38133,40 @@
     "maxWaterDepth": 68,
     "implosionChance": 0.330409
   },
+  "createcasing:zinc_adjustable_chain_gearshift": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_automatic_clutch": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
   "createcasing:zinc_casing": {
     "maxWaterDepth": 47,
     "implosionChance": 0.330409
   },
+  "createcasing:zinc_chain_conveyor": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_clutch": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
   "createcasing:zinc_cogwheel": {
     "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_configurable_gearbox": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_deployer": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_depot": {
+    "maxWaterDepth": 68,
     "implosionChance": 0.330409
   },
   "createcasing:zinc_encased_acacia_cogwheel": {
@@ -38205,6 +38233,10 @@
     "maxWaterDepth": 68,
     "implosionChance": 0.330409
   },
+  "createcasing:zinc_encased_chain_drive": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
   "createcasing:zinc_encased_cherry_cogwheel": {
     "maxWaterDepth": 68,
     "implosionChance": 0.330409
@@ -38254,6 +38286,10 @@
     "implosionChance": 0.330409
   },
   "createcasing:zinc_encased_dark_oak_shaft": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_encased_fan": {
     "maxWaterDepth": 68,
     "implosionChance": 0.330409
   },
@@ -38357,6 +38393,14 @@
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
   },
+  "createcasing:zinc_gearbox": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_gearshift": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
   "createcasing:zinc_glass_fluid_pipe": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
@@ -38373,17 +38417,53 @@
     "maxWaterDepth": 47,
     "implosionChance": 0.330409
   },
+  "createcasing:zinc_mechanical_drill": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_mechanical_harvester": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_mechanical_plough": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
   "createcasing:zinc_mechanical_pump": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
+  },
+  "createcasing:zinc_mechanical_roller": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_mechanical_saw": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_mixer": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
   },
   "createcasing:zinc_portable_fluid_interface": {
     "maxWaterDepth": 85,
     "implosionChance": 0.25540897
   },
+  "createcasing:zinc_portable_storage_interface": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createcasing:zinc_press": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
   "createcasing:zinc_shaft": {
     "maxWaterDepth": 41,
     "implosionChance": 0.39013878
+  },
+  "createcasing:zinc_slicer": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
   },
   "createcasing:zinc_smart_fluid_pipe": {
     "maxWaterDepth": 85,
@@ -40244,6 +40324,250 @@
   "createoreexcavation:sample_drill": {
     "maxWaterDepth": 148,
     "implosionChance": 0.05
+  },
+  "createthrusters:acc_display": {
+    "maxWaterDepth": 65,
+    "implosionChance": 0.3497237
+  },
+  "createthrusters:acc_display_block": {
+    "maxWaterDepth": 65,
+    "implosionChance": 0.3497237
+  },
+  "createthrusters:acc_display_half_panel": {
+    "maxWaterDepth": 65,
+    "implosionChance": 0.3497237
+  },
+  "createthrusters:acc_display_panel": {
+    "maxWaterDepth": 65,
+    "implosionChance": 0.3497237
+  },
+  "createthrusters:acc_display_slab": {
+    "maxWaterDepth": 65,
+    "implosionChance": 0.3497237
+  },
+  "createthrusters:advanced_contraption_controller": {
+    "maxWaterDepth": 65,
+    "implosionChance": 0.3497237
+  },
+  "createthrusters:advanced_navigation_table": {
+    "maxWaterDepth": 65,
+    "implosionChance": 0.3497237
+  },
+  "createthrusters:aileron_bearing": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.27459225
+  },
+  "createthrusters:aileron_bearing_link": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.27459225
+  },
+  "createthrusters:alternator": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:analogue_contraption_controller": {
+    "maxWaterDepth": 65,
+    "implosionChance": 0.3497237
+  },
+  "createthrusters:analogue_joystick": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "createthrusters:andesite_cable": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "createthrusters:bi_directional_gearshift": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:bidirectional_gearbox": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:blackstone_alloy_block": {
+    "maxWaterDepth": 105,
+    "implosionChance": 0.13027754
+  },
+  "createthrusters:blackstone_casing": {
+    "maxWaterDepth": 47,
+    "implosionChance": 0.330409
+  },
+  "createthrusters:blackstone_encased_cogwheel": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createthrusters:blackstone_encased_large_cogwheel": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createthrusters:blackstone_encased_shaft": {
+    "maxWaterDepth": 68,
+    "implosionChance": 0.330409
+  },
+  "createthrusters:camera": {
+    "maxWaterDepth": 64,
+    "implosionChance": 0.39013878
+  },
+  "createthrusters:claw": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:contraption_network_linker_plane": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "createthrusters:copycat_double_button": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "createthrusters:creative_rcs_thruster": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:diagnostic_tablet": {
+    "maxWaterDepth": 57,
+    "implosionChance": 0.43337092
+  },
+  "createthrusters:double_button": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "createthrusters:entity_launcher_anchor": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:fuel_oxidizer": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:gyro_redstone_bridge": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "createthrusters:gyroscope_link": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
+  },
+  "createthrusters:industrial_motor": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:large_ratchet_cogwheel": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:launcher_endpoint": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "createthrusters:physics_gantry_belt_wheel": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:physics_gantry_carriage": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:physics_gantry_shaft": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:physics_staff_anchor": {
+    "maxWaterDepth": 44,
+    "implosionChance": 0.4806853
+  },
+  "createthrusters:plume_light": {
+    "maxWaterDepth": 25,
+    "implosionChance": 0.6
+  },
+  "createthrusters:powered_zipline": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:ratchet_cogwheel": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:rcs_thruster": {
+    "maxWaterDepth": 76,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:rope_knot": {
+    "maxWaterDepth": 30,
+    "implosionChance": 0.57176787
+  },
+  "createthrusters:scissor_piston": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.27459225
+  },
+  "createthrusters:scissor_piston_arm": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "createthrusters:scissor_piston_link": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.27459225
+  },
+  "createthrusters:ship_control_module": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:ship_coupler": {
+    "maxWaterDepth": 97,
+    "implosionChance": 0.18027754
+  },
+  "createthrusters:ship_dock": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:shipping_manifest": {
+    "maxWaterDepth": 35,
+    "implosionChance": 0.5344535
+  },
+  "createthrusters:smart_battery": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:smart_tank": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:smart_vault": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:thruster": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:thruster_bearing": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.27459225
+  },
+  "createthrusters:thruster_bearing_link": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.27459225
+  },
+  "createthrusters:universal_display_adapter": {
+    "maxWaterDepth": 65,
+    "implosionChance": 0.3497237
+  },
+  "createthrusters:variable_transmission": {
+    "maxWaterDepth": 71,
+    "implosionChance": 0.31137055
+  },
+  "createthrusters:vector_bearing": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.27459225
+  },
+  "createthrusters:vector_bearing_link": {
+    "maxWaterDepth": 77,
+    "implosionChance": 0.27459225
+  },
+  "createthrusters:virtual_orientation_source": {
+    "maxWaterDepth": 59,
+    "implosionChance": 0.39013878
   },
   "dndecor:amethyst_crushing_wheel": {
     "maxWaterDepth": 47,

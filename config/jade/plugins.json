@@ -87,6 +87,10 @@
   "chesttracker": {
     "memory_preview": true
   },
+  "createthrusters": {
+    "smart_battery_energy": true,
+    "thruster_resources": true
+  },
   "ipla": {
     "ipla_jade": true
   },

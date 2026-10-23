@@ -3,5 +3,9 @@
   {"ingredient":{"id":"offroad:monstrous_tire"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simulated:physics_assembler"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"offroad:wheel_mount"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"simulated:directional_gearshift"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"simulated:directional_gearshift"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:clay_ball"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"recipe":"create:milling/dripstone_block","recipeType":"create:crushing","bookmarkType":"RECIPE"},
+  {"recipe":"create_ultimate_factory:mixing_dripstone","recipeType":"create:mixing","bookmarkType":"RECIPE"},
+  {"recipe":"create_ultimate_factory:compacting_calcite","recipeType":"create:packing","bookmarkType":"RECIPE"}
 ]

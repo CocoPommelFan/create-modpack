@@ -1281,6 +1281,21 @@
                   },
                   {
                       "downloads":  [
+                                        "https://cdn.modrinth.com/data/eqrvp4NK/versions/Cw5k6c0a/createenchantablemachinery-3.6.0%2Bmc1.21.1-neoforge.jar"
+                                    ],
+                      "env":  {
+                                  "client":  "required",
+                                  "server":  "required"
+                              },
+                      "fileSize":  575739,
+                      "hashes":  {
+                                     "sha1":  "ed9a5cf654235f54a3c5aced27ac654d5258e393",
+                                     "sha512":  "1dda17f32d92b92ac2e953f7cc28efd6be4d627ca85f4639654bbc3acdc9c879bf0c1fc2f66e0956874d6e21928c1556df1630ee2243d67683e1eefe26312fc7"
+                                 },
+                      "path":  "mods/createenchantablemachinery-3.6.0+mc1.21.1-neoforge.jar"
+                  },
+                  {
+                      "downloads":  [
                                         "https://cdn.modrinth.com/data/JWGBpFUP/versions/L6VSDdC4/create-enchantment-industry-2.5.4b.jar"
                                     ],
                       "env":  {

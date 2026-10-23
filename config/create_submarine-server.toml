@@ -86,3 +86,6 @@
 	#Experimental: a breach fills the ship block by block with real water that weighs it down.
 	#When off, a breach below the waterline lets the sea into the whole room at once.
 	progressiveFlooding = false
+
+[hullStrength]
+	pressureModel = "HYBRID"
